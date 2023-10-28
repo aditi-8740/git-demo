@@ -7,5 +7,6 @@ int main(){
     cin>> a;
     cout<<"enter b (an integer value) ";
     cin>> b;
-    cout<<"sum of "<< a<<" & "<<b<<" is "<< a+b ;
+    cout<<"code with harry\n";
+    cout<<"Final Answer :\nsum of "<< a<<" & "<<b<<" is "<< a+b ;
 }
