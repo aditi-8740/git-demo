@@ -5,6 +5,7 @@ int main(){
     int a , b;
     cout<<"enter a ";
     cin>> a;
+    cout<<"in the devA branch made changes"<<a;
     cout<<"enter b (an integer value) ";
     cin>> b;
     cout<<"code with harry\n";
